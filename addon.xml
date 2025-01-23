@@ -1,6 +1,6 @@
-<addon id="script.thapps.deletemykodiordmk" 
+<addon id="script.thapps.deletemykodi.lite" 
        version="1.21.0" 
-       name="Delete My Kodi" 
+       name="Delete My Kodi Lite" 
        provider-name="idealkooks">
        
     <requires>
